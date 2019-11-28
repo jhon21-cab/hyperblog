@@ -1,6 +1,21 @@
 body
 {
-    color: brown;
+    color: blue;
     text-align: center;
     font-family: "arial";
+}
+#container
+ {
+
+    width: 60%;
+    padding: 1cm;
+    text-align: left;
+    border: 1px solid #D00;
+    margin: 0 auto;
+
+}
+#container
+{
+
+    font-size: 20px;
 }
